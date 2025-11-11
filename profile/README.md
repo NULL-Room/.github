@@ -1,14 +1,16 @@
-# NULL Room
+<h1 style="text-align: center;">NULL Room</h1>
 
-## About us
-
-We are UNDEFINED.
+![IMAGE](index.jpg)
 
 ## Contact
 
 - **e-mail：** [easonzhou7011@gmail.com](mailto:easonzhou7011@gmail.com)
-- **e-mail (In china)：** [easonzhou0801@163.com](mailto:easonzhou0801@163.com)
 - **Zhihu：** [https://www.zhihu.com/people/EasonZhou](https://www.zhihu.com/people/EasonZhou)
 
-## Responsibilities
+## Repository Directory
+
+- [.github](https://github.com/NULL-Room/.github/)
+- [TeX-Project](https://github.com/NULL-Room/TeX-Project)
+- [Me-and-emacs](https://github.com/NULL-Room/Me-and-emacs)
+- [Perfectionism](https://github.com/NULL-Room/Perfectionism)
 
