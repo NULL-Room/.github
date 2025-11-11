@@ -1,7 +1,5 @@
 <h1 style="text-align: center;">NULL Room</h1>
 
-![IMAGE](index.jpg)
-
 ## Contact
 
 - **e-mail：** [easonzhou7011@gmail.com](mailto:easonzhou7011@gmail.com)
